@@ -11,7 +11,8 @@ If the discount is **20% or higher**, the discount will be applied. Otherwise, t
    cd discount-calculator
 
 2. Run the program:
-   ```python3 main.py
+   ```bash
+   python3 main.py
 
 3. Enter the original price and discount percentage when prompted.
 
